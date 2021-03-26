@@ -1,7 +1,11 @@
-It's program that calculates differents types of solids.
+It's programs that calculates differents types of solids
 
 -------------------IMPORTANT-------------------
 
-I did this when I was youg so it can be really more maximize.
+I did this a long time ago so it can be really more maximize
+
+solids.py is a console version
+
+interface.py is the same than solids.py with an interface but there is a few bugs 
 
 -----------------------------------------------
